@@ -1,0 +1,3 @@
+.venv/
+fact_check_history.json
+config_template.py
