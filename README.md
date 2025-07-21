@@ -157,7 +157,7 @@ RAG-Fact-Checker/
 ├── requirements.txt         # Python dependencies
 ├── README.md               # This file
 ├── fact_check_history.json # Generated history file
-└── test-*.ipynb           # Jupyter notebooks for testing
+└── test                    # Jupyter notebooks for testing
 ```
 
 ## 🔧 Configuration
@@ -209,7 +209,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - **Google**: For providing the Gemini 2.5 Flash model
 - **Gradio**: For the excellent web interface framework
-- **Community**: For feedback and contributions
 
 ---
 
