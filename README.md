@@ -213,3 +213,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Version**: 2.0 | **Last Updated**: July 2025 | **Model**: Gemini 2.5 Flash
+
+<img width="1440" height="795" alt="Screenshot 2025-07-21 at 3 36 21 AM" src="https://github.com/user-attachments/assets/29135c3c-5a3d-4b83-828f-d491b15c645a" />
+
